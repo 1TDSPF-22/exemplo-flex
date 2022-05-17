@@ -1,0 +1,8 @@
+.box-pai {
+    display: flex;
+      /*FLEX-DIRECTIONS*/
+        flex-direction: row; 
+        /* flex-direction: row-reverse; */
+        /* flex-direction: column; */
+        /* flex-direction: column-reverse; */
+}
