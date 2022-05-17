@@ -1,0 +1,5 @@
+/* DECLARAR A CLASSE BOX PAI COM DISPLAY FLEX */
+.box-pai{
+    display: flex;
+    flex-direction: row;
+}
