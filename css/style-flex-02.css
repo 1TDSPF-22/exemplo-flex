@@ -1,0 +1,30 @@
+.box{
+    width: 10%;
+    min-width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.box-pai{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box-child-1{
+    background-color: blanchedalmond;
+}
+
+.box-child-2{
+    background-color: blue;
+}
+
+.box-child-3{
+    background-color: cornflowerblue;
+}
+
+.box-child-4{
+    background-color: aquamarine;    
+}

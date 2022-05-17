@@ -1,0 +1,4 @@
+.box-pai{
+    display: flex;
+    flex-direction: row;
+}
