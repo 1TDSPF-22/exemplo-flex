@@ -1,0 +1,16 @@
+
+/*
+    DECLARAR A CLASSE BOX-PAI COM DISPLAY FLEX
+*/
+.box-pai{
+    display: flex;
+    /*FLEX-DIRECTIONS*/
+    flex-direction: row;
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+
+}
+/*
+DECLARAR A CLASSE BOX-PAI COM DISPLAY FLEX
+*/
